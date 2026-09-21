@@ -1,0 +1,31 @@
+Transaction ID,Date,City,Product,Category,Quantity,Unit Price,Sales Amount
+T001,2026-08-09,Nashik,Wireless Mouse,Accessories,2,867.04,1734.08
+T002,2026-08-22,Nanded,Wireless Mouse,Accessories,4,871.63,3486.52
+T003,2026-08-28,Nashik,Office Chair,Furniture,1,8178.38,8178.38
+T004,2026-08-21,Aurangabad,Smartphone,Electronics,3,27375.8,82127.4
+T005,2026-08-22,Nashik,Keyboard,Accessories,2,1512.32,3024.64
+T006,2026-08-04,Aurangabad,Keyboard,Accessories,1,1536.41,1536.41
+T007,2026-08-07,Nanded,Smartphone,Electronics,1,26132.77,26132.77
+T008,2026-08-04,Pune,Office Chair,Furniture,4,9039.12,36156.48
+T009,2026-08-04,Nanded,Tablet,Electronics,3,18030.84,54092.52
+T010,2026-08-20,Mumbai,USB Drive,Accessories,2,722.5,1445.0
+T011,2026-08-04,Pune,Desk Lamp,Furniture,3,1800.14,5400.42
+T012,2026-08-01,Mumbai,Wireless Mouse,Accessories,3,868.42,2605.26
+T013,2026-08-19,Pune,Office Chair,Furniture,1,8753.23,8753.23
+T014,2026-08-06,Aurangabad,Office Chair,Furniture,4,9144.33,36577.32
+T015,2026-08-15,Nanded,Office Chair,Furniture,4,8240.95,32963.8
+T016,2026-08-13,Mumbai,Office Chair,Furniture,1,8168.67,8168.67
+T017,2026-08-05,Nanded,Desk Lamp,Furniture,4,1675.14,6700.56
+T018,2026-08-23,Nanded,Headphones,Accessories,4,2030.73,8122.92
+T019,2026-08-19,Nashik,Office Chair,Furniture,1,8292.59,8292.59
+T020,2026-08-17,Mumbai,Desk Lamp,Furniture,3,1758.41,5275.23
+T021,2026-08-04,Nanded,Laptop,Electronics,4,57619.82,230479.28
+T022,2026-08-01,Pune,Wireless Mouse,Accessories,1,855.7,855.7
+T023,2026-08-26,Nashik,Tablet,Electronics,3,19065.58,57196.74
+T024,2026-08-05,Mumbai,Headphones,Accessories,1,2036.37,2036.37
+T025,2026-08-17,Nashik,Laptop,Electronics,2,52802.51,105605.02
+T026,2026-08-22,Nashik,Keyboard,Accessories,2,1429.88,2859.76
+T027,2026-08-30,Aurangabad,Headphones,Accessories,3,2035.1,6105.3
+T028,2026-08-13,Mumbai,Keyboard,Accessories,2,1467.95,2935.9
+T029,2026-08-31,Aurangabad,Office Chair,Furniture,3,8483.63,25450.89
+T030,2026-08-14,Nanded,Laptop,Electronics,2,56259.83,112519.66
